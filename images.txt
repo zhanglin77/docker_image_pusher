@@ -1,16 +1,4 @@
-tianon/exim4
-memcached:1.6.26-alpine
-redis:6.2.14-alpine
-postgres:14.11
-confluentinc/cp-kafka:7.6.1
-altinity/clickhouse-server:23.8.11.29.altinitystable
-getsentry/sentry:nightly
-getsentry/snuba:nightly
-nginx:1.25.4-alpine
-getsentry/symbolicator:nightly
-getsentry/vroom:nightly
-getsentry/relay:nightly
-
+outlovecn/portainer-cn
 
 
 
