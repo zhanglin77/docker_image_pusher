@@ -1,4 +1,4 @@
-netdata/netdata
+portainer/portainer-ce:2.21.5
 
 
 
