@@ -1,5 +1,4 @@
-alpine
-
+checkmk/check-mk-raw:2.3.0p27
 
 
 #langgenius/dify-api:0.12.1
