@@ -1,4 +1,4 @@
-checkmk/check-mk-raw:2.3.0p27
+ rabbitmq:4.0-management
 
 
 #langgenius/dify-api:0.12.1
