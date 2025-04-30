@@ -1,4 +1,4 @@
-apacherocketmq/rocketmq-dashboard:latest
+provectuslabs/kafka-ui
 
 #langgenius/dify-api:0.12.1
 #支持私库
