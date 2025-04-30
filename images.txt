@@ -1,4 +1,4 @@
-apache/kafka:4.0.0
+ apache/rocketmq:5.3.2
 
 #langgenius/dify-api:0.12.1
 #支持私库
