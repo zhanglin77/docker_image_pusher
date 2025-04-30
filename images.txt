@@ -1,4 +1,4 @@
- apache/rocketmq:5.3.2
+apacherocketmq/rocketmq-dashboard:latest
 
 #langgenius/dify-api:0.12.1
 #支持私库
