@@ -1,4 +1,6 @@
-provectuslabs/kafka-ui
+grafana/alloy:latest
+grafana/loki:3.0.0
+grafana/grafana:latest
 
 #langgenius/dify-api:0.12.1
 #支持私库
