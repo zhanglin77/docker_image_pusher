@@ -1,4 +1,4 @@
-openjdk:8u171-jre-alpine3.7
+anapsix/alpine-java:8_server-jre_unlimited
 #langgenius/dify-api:0.12.1
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
