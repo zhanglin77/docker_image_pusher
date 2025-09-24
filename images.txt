@@ -1,5 +1,4 @@
-neo4j:5.26.0
-zepai/knowledge-graph-mcp:latest
+calciumion/new-api:latest
 
 #langgenius/dify-api:0.12.1
 #支持私库
