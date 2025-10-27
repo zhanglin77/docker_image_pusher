@@ -1,4 +1,4 @@
-ghcr.io/oraios/serena:latest
+onlyoffice/documentserver
 
 #langgenius/dify-api:0.12.1
 #支持私库
