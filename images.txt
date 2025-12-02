@@ -1,4 +1,4 @@
-openeuler/bisheng-jdk:1.8.0-oe2203lts
+ghcr.io/graalvm/jdk-community:21.0.2
 
 #langgenius/dify-api:0.12.1
 #支持私库
