@@ -1,4 +1,7 @@
-tonistiigi/binfmt
+dependencytrack/apiserver
+dependencytrack/frontend
+postgres:17-alpine
+
 
 #langgenius/dify-api:0.12.1
 #支持私库
