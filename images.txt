@@ -1,7 +1,4 @@
-dependencytrack/apiserver
-dependencytrack/frontend
-postgres:17-alpine
-
+openeuler/paddlepaddle:3.2.0-oe2403sp2
 
 #langgenius/dify-api:0.12.1
 #支持私库
