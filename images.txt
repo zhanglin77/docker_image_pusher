@@ -1,4 +1,4 @@
-openeuler/paddlepaddle:3.2.0-oe2403sp2
+987846/paddleocr:latest
 
 #langgenius/dify-api:0.12.1
 #支持私库
