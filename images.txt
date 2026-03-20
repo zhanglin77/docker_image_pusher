@@ -1,4 +1,4 @@
-python:3.8-slim-bullseye
+987846/paddleocr:latest
 
 #langgenius/dify-api:0.12.1
 #支持私库
