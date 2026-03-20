@@ -1,4 +1,4 @@
-987846/paddleocr:latest
+--platform=linux/arm64 987846/paddleocr:latest
 
 #langgenius/dify-api:0.12.1
 #支持私库
