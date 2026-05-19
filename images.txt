@@ -1,4 +1,4 @@
---platform=linux/arm64 987846/paddleocr:latest
+openjdk:17
 
 #langgenius/dify-api:0.12.1
 #支持私库
