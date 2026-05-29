@@ -1,4 +1,4 @@
-openjdk:17
+node:22.13-alpine
 
 #langgenius/dify-api:0.12.1
 #支持私库
